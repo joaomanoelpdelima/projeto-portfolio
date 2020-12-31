@@ -1,2 +1,2 @@
-# projeto-portolio
+# projeto-portfolio
 Portfólio de programador em desenvolvimento
